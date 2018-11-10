@@ -1,10 +1,10 @@
 # machine-learning-resourses
 ## 机器学习
-### 综述  
+#### 综述  
 机器学习是人工智能的一个分支。人工智能的研究历史有着一条从以“推理”为重点，到以“知识”为重点，再到以“学习”为重点的自然、清晰的脉络。显然，机器学习是实现人工智能的一个途径，即以机器学习为手段解决人工智能中的问题。机器学习在近30多年已发展为一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、计算复杂性理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。  
 ["The introduction to machine learning"](https://www.youtube.com/watch?v=PPLop4L2eGk) Andrew NG
 
-### 书籍  
+#### 书籍  
 * 数学方面  
 [《Math for ML book》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/mml-book.pdf)Math for machine learning book by Faisal and Ong  
 [《数学之美》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/数学之美.pdf) by 吴军  
@@ -26,14 +26,26 @@
 [《Learning Spark Lightning Fast Data Analysis》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/Learning-Spark-Lightning-Fast-Data-Analysis.pdf)  
 [《Advanced Analytics with Spark》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/Advanced-Analytics-with%20Spark.pdf)
 
-### 课程  
+#### 课程
+* 数学课  
 [线性代数的本质](https://www.bilibili.com/video/av6731067/?redirectFrom=h5#page=3) by 3Blue1Brown  
-[MIT 18.06 线性代数](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) by MIT  
-[机器学习](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) by Andrew Ng Stanford University  
+[MIT 18.06 线性代数](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) by MIT
+* 机器学习课  
+[机器学习](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) by Andrew Ng Stanford University    
 [机器学习基石](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) by 林轩田 台大  
 [机器学习技法](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) by 林轩田 台大  
 [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn) by Google  
 [机器学习](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.102x+2T2018/course/) by ColumbiaX CSMM.102X
+
+#### 知乎回答  
+
+#### 其他资源  
+[机器学习资源汇总(课程、教材、教程、笔记、速查等)](https://sgfin.github.io/learning-resources/) by 《ML Resources | Sam's Academic Blog》 by Samuel Finlayson  
+[经典书《模式识别与机器学习》习题答案集](https://github.com/GoldenCheese/PRML-Solution-Manual) by ZHENGQI GAO GitHub  
+[微软开源的Python机器学习包，具有ML.NET的功能，与Scikit-Learn高度兼容](https://github.com/Microsoft/NimbusML) by Microsoft  
+['pymc-learn: Practical probabilistic machine learning in Python](https://github.com/pymc-learn/pymc-learn)  
+[提高Jupyter使用效率的工具](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) by Gautam Borgohain  
+
 
 ## 自然语言处理
 
