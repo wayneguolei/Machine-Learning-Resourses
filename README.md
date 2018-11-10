@@ -11,7 +11,7 @@
 * 机器学习   
 以下两本为国内非常著名的机器学习书，入门学习或者找工作的必备书籍   
 [《机器学习》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)by 周志华  
-[《统计学系方法》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf)by 李航   
+[《统计学习方法》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf)by 李航   
 非常通俗易懂的一本机器学习书  
 [《图解机器学习》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf) by 杉山将  
 以下为机器学习领域的三本神书  
@@ -30,24 +30,36 @@
 * 数学课  
 [线性代数的本质](https://www.bilibili.com/video/av6731067/?redirectFrom=h5#page=3) by 3Blue1Brown  
 [MIT 18.06 线性代数](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) by MIT
-* 机器学习课  
+* 机器学习课(master level)   
 [机器学习](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) by Andrew Ng Stanford University    
 [机器学习基石](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf) by 林轩田 台大  
 [机器学习技法](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2) by 林轩田 台大  
 [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=zh-cn) by Google  
-[机器学习](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.102x+2T2018/course/) by ColumbiaX CSMM.102X
+[机器学习](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.102x+2T2018/course/) by ColumbiaX CSMM.102X  
+* 机器学习课(phd level)  
+[Advanced Introduction to Machine Learning](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html)  by cmu [视频](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA&disable_polymer=true)    
+[Large Scale ML](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/) by Toronto  
+[Statistical Learning Theory and Applications](http://www.mit.edu/~9.520/fall15/index.html) by MIT  
+
 
 #### 知乎回答  
 
-#### 其他资源  
+#### 开放资源  
 [机器学习资源汇总(课程、教材、教程、笔记、速查等)](https://sgfin.github.io/learning-resources/) by 《ML Resources | Sam's Academic Blog》 by Samuel Finlayson  
 [经典书《模式识别与机器学习》习题答案集](https://github.com/GoldenCheese/PRML-Solution-Manual) by ZHENGQI GAO GitHub  
 [微软开源的Python机器学习包，具有ML.NET的功能，与Scikit-Learn高度兼容](https://github.com/Microsoft/NimbusML) by Microsoft  
 ['pymc-learn: Practical probabilistic machine learning in Python](https://github.com/pymc-learn/pymc-learn)  
 [提高Jupyter使用效率的工具](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) by Gautam Borgohain  
+[Fast.ai](https://www.fast.ai/#technical) Wonderful set of intro lectures + notebooks from Jeremy Howard and Rachel Thomas  
 
 
 ## 自然语言处理
+* 书籍  
+
+* 课程  
+[CS224N Deep Learning for NLP](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) by Stanford   
+[CMU CS 11-747](http://www.phontron.com/class/nn4nlp2018/schedule.html) by CMU  
+
 
 
 
