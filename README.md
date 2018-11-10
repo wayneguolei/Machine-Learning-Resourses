@@ -68,6 +68,7 @@
 [CS224N Deep Learning for NLP](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) by Stanford   
 [CMU CS 11-747](http://www.phontron.com/class/nn4nlp2018/schedule.html) by CMU  
 [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures) by Oxford and DeepMind  
+[Tutorial: Machine Learning with Text in scikit-learn](https://github.com/wayneguolei/pycon-2016-tutorial) by Kevin Markham  
 
 
 
