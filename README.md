@@ -8,6 +8,10 @@
 * 数学方面  
 [《Math for ML book》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/mml-book.pdf)Math for machine learning book by Faisal and Ong  
 [《数学之美》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/数学之美.pdf) by 吴军  
-* 机器学习  
+* 机器学习 
+以上两本为国内非常著名的机器学习书，入门学习或者找工作的必备书籍 
 [《机器学习》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)by 周志华  
-[《统计学系方法》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf)by 李航  
+[《统计学系方法》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf)by 李航     
+[《图解机器学习》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf) by 杉山将  
+以下
+
