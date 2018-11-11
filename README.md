@@ -51,24 +51,38 @@
 
 #### 知乎回答  
 
-#### 开放资源  
+#### Open Sources   
 [机器学习资源汇总(课程、教材、教程、笔记、速查等)](https://sgfin.github.io/learning-resources/) by 《ML Resources | Sam's Academic Blog》 by Samuel Finlayson  
 [经典书《模式识别与机器学习》习题答案集](https://github.com/GoldenCheese/PRML-Solution-Manual) by ZHENGQI GAO GitHub  
 [微软开源的Python机器学习包，具有ML.NET的功能，与Scikit-Learn高度兼容](https://github.com/Microsoft/NimbusML) by Microsoft  
 ['pymc-learn: Practical probabilistic machine learning in Python](https://github.com/pymc-learn/pymc-learn)  
 [提高Jupyter使用效率的工具](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) by Gautam Borgohain  
-[Fast.ai](https://www.fast.ai/#technical) Wonderful set of intro lectures + notebooks from Jeremy Howard and Rachel Thomas  
+[Fast.ai](https://www.fast.ai/#technical) Wonderful set of intro lectures + notebooks from Jeremy Howard and Rachel Thomas   
+[从头开始学习机器学习](https://github.com/neerjad/MachineLearning)  by Neerja Doshi  
+
+
 
 
 ## 自然语言处理
-* 书籍  
+#### 书籍  
 [Overview of Deep Learning for NLP](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/Goldber_Primer_Neural_Nets_NLP.pdf) by Goldber Primer  
 
-* 课程  
+#### 课程  
 [CS224N Deep Learning for NLP](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) by Stanford   
 [CMU CS 11-747](http://www.phontron.com/class/nn4nlp2018/schedule.html) by CMU  
-[Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures) by Oxford and DeepMind  
+[Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures) by Oxford and DeepMind   
 [Tutorial: Machine Learning with Text in scikit-learn](https://github.com/wayneguolei/pycon-2016-tutorial) by Kevin Markham  
+
+#### 知乎回答
+[通过kaggle比赛学习机器学习文本分类方法](https://zhuanlan.zhihu.com/p/34899693) by 砍手豪  
+[Attention is all you need模型笔记](https://zhuanlan.zhihu.com/p/39034683) by 盛源车  
+[用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551) by 清凇  
+
+
+
+#### Open Sources  
+[PyTorch-NLP - Text utilities and datasets for PyTorch](https://github.com/PetrochukM/PyTorch-NLP) by Michael Petrochuk  
+[Attention is all you need annotated transformer Pytorch](https://github.com/harvardnlp/annotated-transformer) by HarvardNLP
 
 
 
