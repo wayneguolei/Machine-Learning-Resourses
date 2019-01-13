@@ -83,7 +83,7 @@
 
 #### Open Sources  
 [PyTorch-NLP - Text utilities and datasets for PyTorch](https://github.com/PetrochukM/PyTorch-NLP) by Michael Petrochuk  
-[Attention is all you need annotated transformer Pytorch](https://github.com/harvardnlp/annotated-transformer) by HarvardNLP
+[Attention is all you need annotated transformer Pytorch](https://github.com/harvardnlp/annotated-transformer) by HarvardNLP 
 [Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial) 
 
 ## 面试
