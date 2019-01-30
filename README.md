@@ -72,6 +72,7 @@
 [CMU CS 11-747](http://www.phontron.com/class/nn4nlp2018/schedule.html) by CMU  
 [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures) by Oxford and DeepMind   
 [Tutorial: Machine Learning with Text in scikit-learn](https://github.com/wayneguolei/pycon-2016-tutorial) by Kevin Markham  
+[YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)  by Elena Voita [jupyter notebook](https://mybinder.org/v2/gh/yandexdataschool/nlp_course/master) 
 
 #### 知乎回答
 [通过kaggle比赛学习机器学习文本分类方法](https://zhuanlan.zhihu.com/p/34899693) by 砍手豪  
@@ -82,8 +83,11 @@
 
 #### Open Sources  
 [PyTorch-NLP - Text utilities and datasets for PyTorch](https://github.com/PetrochukM/PyTorch-NLP) by Michael Petrochuk  
-[Attention is all you need annotated transformer Pytorch](https://github.com/harvardnlp/annotated-transformer) by HarvardNLP
+[Attention is all you need annotated transformer Pytorch](https://github.com/harvardnlp/annotated-transformer) by HarvardNLP  
+[Pytorch tutorial](https://github.com/yunjey/pytorch-tutorial) 
 
+## 面试
+[2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) by imhuay
 
 
 
