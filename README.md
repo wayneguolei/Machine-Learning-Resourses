@@ -59,6 +59,7 @@
 [提高Jupyter使用效率的工具](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) by Gautam Borgohain  
 [Fast.ai](https://www.fast.ai/#technical) Wonderful set of intro lectures + notebooks from Jeremy Howard and Rachel Thomas   
 [从头开始学习机器学习](https://github.com/neerjad/MachineLearning)  by Neerja Doshi  
+[What the f*ck Python!](https://github.com/satwikkansal/wtfpython/tree/b262f2975641da1493853a390a171a051f561914#structure-of-the-examples) by satwikkansal 
 
 
 
