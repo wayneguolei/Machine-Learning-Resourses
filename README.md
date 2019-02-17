@@ -11,7 +11,7 @@
 * 机器学习   
 以下两本为国内非常著名的机器学习书，入门学习或者找工作的必备书籍   
 [《机器学习》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)by 周志华  
-[《统计学习方法》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E6%9D%8E%E8%88%AA).pdf)by 李航   
+[《统计学习方法》](https://github.com/wayneguolei/Machine-Learning-Resourses/blob/master/books/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95-%E6%9D%8E%E8%88%AA-%E9%AB%98%E6%B8%85%E7%9B%AE%E5%BD%95.pdf)by 李航   
 非常通俗易懂的一本机器学习书  
 [《图解机器学习》](https://github.com/wayneguolei/machine-learning-resourses/blob/master/books/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.pdf) by 杉山将  
 以下为机器学习领域的三本神书  
