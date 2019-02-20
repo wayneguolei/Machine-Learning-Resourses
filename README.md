@@ -47,6 +47,8 @@
 [深度学习专项课程](https://www.coursera.org/specializations/deep-learning) by Andrew Ng  
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Stanford  
 [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) by Geoffrey Hinton  
+[Oxford Deep Learning for NLP class](https://www.ctolib.com/topics-108952.html) by Phil Blunsom  
+
 
 
 #### 知乎回答  
